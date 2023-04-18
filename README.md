@@ -1,4 +1,4 @@
-# MinecraftPurpleTheme
+# OTH PANEL
 
 Install script:
 ```sh
